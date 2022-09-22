@@ -39,3 +39,14 @@ C:\mabextendedFETest\mabextendedFETest.API\bin\Debug\netcoreapp3.1\mabextendedFE
 C:\mabextendedFETest\mabextendedFETest.API\bin\Debug\netcoreapp3.1\mabextenedFETest.DataAccess.pdb
 C:\mabextendedFETest\mabextendedFETest.API\bin\Debug\netcoreapp3.1\mabextendedFETest.Model.pdb
 C:\mabextendedFETest\mabextendedFETest.API\obj\Debug\netcoreapp3.1\mabextendedFETest.API.csproj.CopyComplete
+C:\mabextendedFETest\mabextendedFETest.API\bin\Debug\netcoreapp3.1\Namotion.Reflection.dll
+C:\mabextendedFETest\mabextendedFETest.API\bin\Debug\netcoreapp3.1\NJsonSchema.dll
+C:\mabextendedFETest\mabextendedFETest.API\bin\Debug\netcoreapp3.1\NJsonSchema.Yaml.dll
+C:\mabextendedFETest\mabextendedFETest.API\bin\Debug\netcoreapp3.1\NSwag.Annotations.dll
+C:\mabextendedFETest\mabextendedFETest.API\bin\Debug\netcoreapp3.1\NSwag.AspNetCore.dll
+C:\mabextendedFETest\mabextendedFETest.API\bin\Debug\netcoreapp3.1\NSwag.Core.dll
+C:\mabextendedFETest\mabextendedFETest.API\bin\Debug\netcoreapp3.1\NSwag.Core.Yaml.dll
+C:\mabextendedFETest\mabextendedFETest.API\bin\Debug\netcoreapp3.1\NSwag.Generation.dll
+C:\mabextendedFETest\mabextendedFETest.API\bin\Debug\netcoreapp3.1\NSwag.Generation.AspNetCore.dll
+C:\mabextendedFETest\mabextendedFETest.API\bin\Debug\netcoreapp3.1\YamlDotNet.dll
+C:\mabextendedFETest\mabextendedFETest.API\obj\Debug\netcoreapp3.1\mabextendedFETest.API.MvcApplicationPartsAssemblyInfo.cs

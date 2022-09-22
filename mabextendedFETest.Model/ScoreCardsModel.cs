@@ -8,6 +8,8 @@ namespace mabextendedFETest.Model
     {
         public int playerid { get; set; }
 
+        public string name { get; set; }
+
         public int totalscore { get; set; }
 
         public int gamesplayed { get; set; }

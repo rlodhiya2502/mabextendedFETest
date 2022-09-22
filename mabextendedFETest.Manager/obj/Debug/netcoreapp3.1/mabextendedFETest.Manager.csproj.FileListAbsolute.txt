@@ -13,3 +13,5 @@ C:\mabextendedFETest\mabextendedFETest.Manager\obj\Debug\netcoreapp3.1\mabextend
 C:\mabextendedFETest\mabextendedFETest.Manager\obj\Debug\netcoreapp3.1\mabextendedFETest.Manager.csproj.CopyComplete
 C:\mabextendedFETest\mabextendedFETest.Manager\obj\Debug\netcoreapp3.1\mabextendedFETest.Manager.dll
 C:\mabextendedFETest\mabextendedFETest.Manager\obj\Debug\netcoreapp3.1\mabextendedFETest.Manager.pdb
+C:\mabextendedFETest\mabextendedFETest.Manager\bin\Debug\netcoreapp3.1\mabextenedFETest.DataAccess.dll
+C:\mabextendedFETest\mabextendedFETest.Manager\bin\Debug\netcoreapp3.1\mabextenedFETest.DataAccess.pdb
