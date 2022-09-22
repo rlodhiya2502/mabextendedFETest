@@ -20,7 +20,7 @@ namespace mabextendedFETest.Manager.Implementation
             var result = DataAccess.GetAllScoreCards(page, itemsPerPage);
             if (result != null && result.Count > 0)
             {
-                var totalRecords = DataAccess.GetAllScoreCards(page, itemsPerPage);
+                var totalRecords = DataAccess.GetTotalScoreCardsRecords();
                 var response = new { records = result, pageNumber = page, pageSize = itemsPerPage, totalRecords = totalRecords };
                 return new APIResponse(ResponseCode.SUCCESS, "Record Found", response);
             }

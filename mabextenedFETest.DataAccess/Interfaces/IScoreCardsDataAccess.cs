@@ -10,5 +10,7 @@ namespace mabextenedFETest.DataAccess.Interfaces
         List<ScoreCardsModel> GetAllScoreCards(int page, int itemsPerPage);
 
         List<ScoreCardsModel> SearchScoreCards(string searchKey, int page =1, int itemsPerPage = 10);
+
+        int GetTotalScoreCardsRecords();
     }
 }

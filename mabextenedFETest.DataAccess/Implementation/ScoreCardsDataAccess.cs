@@ -34,8 +34,8 @@ namespace mabextenedFETest.DataAccess.Implementation
                     {
                         playerid = reader.GetValue<Int32>("playerid"),
                         name = reader.GetValue<String>("name"),
-                        totalscore = reader.GetValue<Int32>("totalscore"),
-                        gamesplayed = reader.GetValue<Int32>("gamesplayed"),
+                        totalscore = (int)reader.GetValue<Decimal>("totalscore"),
+                        gamesplayed = (int)reader.GetValue<Int64>("gamesplayed"),
                     };
 
                     ret.Add(t);
@@ -48,7 +48,7 @@ namespace mabextenedFETest.DataAccess.Implementation
             var ret = new List<ScoreCardsModel>();
             int offset = (page - 1) * itemsPerPage;
             var cmd = this.MySqlDatabase.Connection.CreateCommand() as MySqlCommand;
-            cmd.CommandText = @"SELECT games.playerid as playerid, players.name, SUM(games.score) as totalscore, COUNT(*) as gamesplayed  FROM games INNER JOIN players ON players.playerid = games.playerid GROUP BY games.playerid ORDER BY `score` DESC LIMIT @Offset, @ItemsPerPage";
+            cmd.CommandText = @"SELECT games.playerid as playerid, players.name , SUM(games.score) as totalscore, COUNT(*) as gamesplayed  FROM games INNER JOIN players ON players.playerid = games.playerid GROUP BY games.playerid ORDER BY `score` DESC LIMIT @Offset, @ItemsPerPage";
             cmd.Parameters.AddWithValue("@Offset", offset);
             cmd.Parameters.AddWithValue("@ItemsPerPage", itemsPerPage);
             using (var reader = cmd.ExecuteReader())
@@ -58,13 +58,25 @@ namespace mabextenedFETest.DataAccess.Implementation
                     {
                         playerid = reader.GetValue<Int32>("playerid"),
                         name = reader.GetValue<String>("name"),
-                        totalscore = reader.GetValue<Int32>("totalscore"),
-                        gamesplayed = reader.GetValue<Int32>("gamesplayed"),
+                        totalscore = (int)reader.GetValue<Decimal>("totalscore"),
+                        gamesplayed = (int)reader.GetValue<Int64>("gamesplayed"),
                     };
 
                     ret.Add(t);
                 }
             return ret;
+        }
+
+        public int GetTotalScoreCardsRecords()
+        {
+            var cmd = this.MySqlDatabase.Connection.CreateCommand() as MySqlCommand;
+            cmd.CommandText = @"SELECT count(*) as TotalRecord FROM players";
+            using (var reader = cmd.ExecuteReader())
+                while (reader.Read())
+                {
+                    return reader.GetInt32("TotalRecord");
+                }
+            return 0;
         }
     }
 }

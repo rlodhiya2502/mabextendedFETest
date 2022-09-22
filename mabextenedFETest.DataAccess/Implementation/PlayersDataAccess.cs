@@ -53,7 +53,7 @@ namespace mabextenedFETest.DataAccess.Implementation
         public int GetAllTotalRecordPlayers()
         {
             var cmd = this.MySqlDatabase.Connection.CreateCommand() as MySqlCommand;
-            cmd.CommandText = @"SELECT count(*) TotalCount FROM players t";
+            cmd.CommandText = @"SELECT count(*) as TotalRecord FROM players t";
             using (var reader = cmd.ExecuteReader())
                 while (reader.Read())
                 {
