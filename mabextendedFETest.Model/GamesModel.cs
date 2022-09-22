@@ -16,4 +16,3 @@ namespace mabextendedFETest.Model
         public DateTime gamedatetime { get; set; }
     }
 }
-}

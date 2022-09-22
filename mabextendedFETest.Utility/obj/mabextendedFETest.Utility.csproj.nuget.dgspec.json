@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\mabextendedFETest\\backendapi\\backendapi.csproj": {}
+    "C:\\mabextendedFETest\\mabextendedFETest.Utility\\mabextendedFETest.Utility.csproj": {}
   },
   "projects": {
-    "C:\\mabextendedFETest\\backendapi\\backendapi.csproj": {
+    "C:\\mabextendedFETest\\mabextendedFETest.Utility\\mabextendedFETest.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\mabextendedFETest\\backendapi\\backendapi.csproj",
-        "projectName": "backendapi",
-        "projectPath": "C:\\mabextendedFETest\\backendapi\\backendapi.csproj",
+        "projectUniqueName": "C:\\mabextendedFETest\\mabextendedFETest.Utility\\mabextendedFETest.Utility.csproj",
+        "projectName": "mabextendedFETest.Utility",
+        "projectPath": "C:\\mabextendedFETest\\mabextendedFETest.Utility\\mabextendedFETest.Utility.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\mabextendedFETest\\backendapi\\obj\\",
+        "outputPath": "C:\\mabextendedFETest\\mabextendedFETest.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.30, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -51,9 +57,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
