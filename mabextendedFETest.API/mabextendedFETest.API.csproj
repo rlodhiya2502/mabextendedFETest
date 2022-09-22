@@ -4,5 +4,17 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="MySql.Data" Version="8.0.30" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="NSwag.AspNetCore" Version="13.17.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\mabextendedFETest.Manager\mabextendedFETest.Manager.csproj" />
+    <ProjectReference Include="..\mabextendedFETest.Utility\mabextendedFETest.Utility.csproj" />
+    <ProjectReference Include="..\mabextenedFETest.DataAccess\mabextenedFETest.DataAccess.csproj" />
+  </ItemGroup>
+
 
 </Project>

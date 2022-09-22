@@ -7,7 +7,7 @@ using System.Text;
 
 namespace mabextendedFETest.Manager.Implementation
 {
-    internal class PlayersManager : IPlayersManager
+    public class PlayersManager : IPlayersManager
     {
         public APIResponse AddPlayers(PlayersModel model)
         {
