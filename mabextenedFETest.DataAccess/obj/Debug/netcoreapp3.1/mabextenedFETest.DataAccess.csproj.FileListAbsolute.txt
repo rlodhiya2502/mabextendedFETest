@@ -1,0 +1,15 @@
+C:\mabextendedFETest\mabextenedFETest.DataAccess\bin\Debug\netcoreapp3.1\mabextenedFETest.DataAccess.deps.json
+C:\mabextendedFETest\mabextenedFETest.DataAccess\bin\Debug\netcoreapp3.1\mabextenedFETest.DataAccess.dll
+C:\mabextendedFETest\mabextenedFETest.DataAccess\bin\Debug\netcoreapp3.1\mabextenedFETest.DataAccess.pdb
+C:\mabextendedFETest\mabextenedFETest.DataAccess\bin\Debug\netcoreapp3.1\mabextendedFETest.Model.dll
+C:\mabextendedFETest\mabextenedFETest.DataAccess\bin\Debug\netcoreapp3.1\mabextendedFETest.Utility.dll
+C:\mabextendedFETest\mabextenedFETest.DataAccess\bin\Debug\netcoreapp3.1\mabextendedFETest.Model.pdb
+C:\mabextendedFETest\mabextenedFETest.DataAccess\bin\Debug\netcoreapp3.1\mabextendedFETest.Utility.pdb
+C:\mabextendedFETest\mabextenedFETest.DataAccess\obj\Debug\netcoreapp3.1\mabextenedFETest.DataAccess.csproj.AssemblyReference.cache
+C:\mabextendedFETest\mabextenedFETest.DataAccess\obj\Debug\netcoreapp3.1\mabextenedFETest.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\mabextendedFETest\mabextenedFETest.DataAccess\obj\Debug\netcoreapp3.1\mabextenedFETest.DataAccess.AssemblyInfoInputs.cache
+C:\mabextendedFETest\mabextenedFETest.DataAccess\obj\Debug\netcoreapp3.1\mabextenedFETest.DataAccess.AssemblyInfo.cs
+C:\mabextendedFETest\mabextenedFETest.DataAccess\obj\Debug\netcoreapp3.1\mabextenedFETest.DataAccess.csproj.CoreCompileInputs.cache
+C:\mabextendedFETest\mabextenedFETest.DataAccess\obj\Debug\netcoreapp3.1\mabextenedFETest.DataAccess.csproj.CopyComplete
+C:\mabextendedFETest\mabextenedFETest.DataAccess\obj\Debug\netcoreapp3.1\mabextenedFETest.DataAccess.dll
+C:\mabextendedFETest\mabextenedFETest.DataAccess\obj\Debug\netcoreapp3.1\mabextenedFETest.DataAccess.pdb

@@ -3,3 +3,8 @@ C:\mabextendedFETest\mabextendedFETest.Utility\obj\Debug\netcoreapp3.1\mabextend
 C:\mabextendedFETest\mabextendedFETest.Utility\obj\Debug\netcoreapp3.1\mabextendedFETest.Utility.AssemblyInfoInputs.cache
 C:\mabextendedFETest\mabextendedFETest.Utility\obj\Debug\netcoreapp3.1\mabextendedFETest.Utility.AssemblyInfo.cs
 C:\mabextendedFETest\mabextendedFETest.Utility\obj\Debug\netcoreapp3.1\mabextendedFETest.Utility.csproj.CoreCompileInputs.cache
+C:\mabextendedFETest\mabextendedFETest.Utility\bin\Debug\netcoreapp3.1\mabextendedFETest.Utility.deps.json
+C:\mabextendedFETest\mabextendedFETest.Utility\bin\Debug\netcoreapp3.1\mabextendedFETest.Utility.dll
+C:\mabextendedFETest\mabextendedFETest.Utility\bin\Debug\netcoreapp3.1\mabextendedFETest.Utility.pdb
+C:\mabextendedFETest\mabextendedFETest.Utility\obj\Debug\netcoreapp3.1\mabextendedFETest.Utility.dll
+C:\mabextendedFETest\mabextendedFETest.Utility\obj\Debug\netcoreapp3.1\mabextendedFETest.Utility.pdb

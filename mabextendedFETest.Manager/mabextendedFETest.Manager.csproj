@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\mabextendedFETest.Model\mabextendedFETest.Model.csproj" />
+    <ProjectReference Include="..\mabextendedFETest.Utility\mabextendedFETest.Utility.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,10 @@
+C:\mabextendedFETest\mabextendedFETest.Model\bin\Debug\netcoreapp3.1\mabextendedFETest.Model.deps.json
+C:\mabextendedFETest\mabextendedFETest.Model\bin\Debug\netcoreapp3.1\mabextendedFETest.Model.dll
+C:\mabextendedFETest\mabextendedFETest.Model\bin\Debug\netcoreapp3.1\mabextendedFETest.Model.pdb
+C:\mabextendedFETest\mabextendedFETest.Model\obj\Debug\netcoreapp3.1\mabextendedFETest.Model.csproj.AssemblyReference.cache
+C:\mabextendedFETest\mabextendedFETest.Model\obj\Debug\netcoreapp3.1\mabextendedFETest.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\mabextendedFETest\mabextendedFETest.Model\obj\Debug\netcoreapp3.1\mabextendedFETest.Model.AssemblyInfoInputs.cache
+C:\mabextendedFETest\mabextendedFETest.Model\obj\Debug\netcoreapp3.1\mabextendedFETest.Model.AssemblyInfo.cs
+C:\mabextendedFETest\mabextendedFETest.Model\obj\Debug\netcoreapp3.1\mabextendedFETest.Model.csproj.CoreCompileInputs.cache
+C:\mabextendedFETest\mabextendedFETest.Model\obj\Debug\netcoreapp3.1\mabextendedFETest.Model.dll
+C:\mabextendedFETest\mabextendedFETest.Model\obj\Debug\netcoreapp3.1\mabextendedFETest.Model.pdb
