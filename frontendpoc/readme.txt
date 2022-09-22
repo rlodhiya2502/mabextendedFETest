@@ -21,6 +21,8 @@ Tasks Todo:
 - Create an angular project
 - Create a Services
 - Create Card component
+- Create Material Table
+- Create Pagination and Search box
 - Create Pages
 - Jasmine Unit Tests
 - Keep this document up to date.
