@@ -13,17 +13,14 @@ Challenges:
 
 
 Solution:
-- Create a Backend API which serves a leader board schema and its related functionalities.
+- Create a Frontend PoC which serves a leader board schema and its related functionalities using Angular
 
 Tasks Todo:
-- Plan Database Design and Schema
-- Plan Solution Structure
-- Create a Solution
-- Create a Model, Entity Framework
-- Create a Database Access
-- Create a Manager
-- Create Controllers, Utilities if needed
-- Swagger Documents
-- Unit Tests
-- Post Man Scripts for automation
+- Plan Mobile First Design on Paper Prototype.
+- Plan Solution Structure, Components, Pages, Services,
+- Create an angular project
+- Create a Services
+- Create Card component
+- Create Pages
+- Jasmine Unit Tests
 - Keep this document up to date.
