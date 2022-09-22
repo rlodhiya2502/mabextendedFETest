@@ -623,7 +623,8 @@
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
           "mabextendedFETest.Model": "1.0.0",
-          "mabextendedFETest.Utility": "1.0.0"
+          "mabextendedFETest.Utility": "1.0.0",
+          "mabextenedFETest.DataAccess": "1.0.0"
         },
         "compile": {
           "bin/placeholder/mabextendedFETest.Manager.dll": {}
