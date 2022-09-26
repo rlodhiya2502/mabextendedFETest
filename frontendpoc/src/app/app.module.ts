@@ -5,11 +5,15 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { DashboardComponent } from './dashboard/dashboard.component';
+import { CardComponent } from './dashboard/components/card/card.component';
+import { ResultsComponent } from './dashboard/components/results/results.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    DashboardComponent
+    DashboardComponent,
+    CardComponent,
+    ResultsComponent
   ],
   imports: [
     BrowserModule,
