@@ -682,3 +682,4 @@ FodyWeavers.xsd
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudio,visualstudiocode,vs,executable,jetbrains+all
 *.vsidx
+.vs/mabextendedFETest/v17/.suo
