@@ -3,20 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mabextendedFETest.Model", "mabextendedFETest.Model\mabextendedFETest.Model.csproj", "{2E126A45-58B6-4BFE-BF7E-2D0FF8DF8463}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "mabextendedFETest.Model", "mabextendedFETest.Model\mabextendedFETest.Model.csproj", "{2E126A45-58B6-4BFE-BF7E-2D0FF8DF8463}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mabextenedFETest.DataAccess", "mabextenedFETest.DataAccess\mabextenedFETest.DataAccess.csproj", "{13D7B044-57CD-4253-9B7B-DAEEA1F35CA8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "mabextenedFETest.DataAccess", "mabextenedFETest.DataAccess\mabextenedFETest.DataAccess.csproj", "{13D7B044-57CD-4253-9B7B-DAEEA1F35CA8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mabextendedFETest.Utility", "mabextendedFETest.Utility\mabextendedFETest.Utility.csproj", "{4F86ED06-E1FA-4205-A52A-462D15F3FCCD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "mabextendedFETest.Utility", "mabextendedFETest.Utility\mabextendedFETest.Utility.csproj", "{4F86ED06-E1FA-4205-A52A-462D15F3FCCD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mabextendedFETest.Manager", "mabextendedFETest.Manager\mabextendedFETest.Manager.csproj", "{4814B6DB-A3B6-4564-987D-BDA823AB9F35}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "mabextendedFETest.Manager", "mabextendedFETest.Manager\mabextendedFETest.Manager.csproj", "{4814B6DB-A3B6-4564-987D-BDA823AB9F35}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7203C014-5B9F-4383-B6C5-A601DF9C851E}"
 	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
 		ExpandedFrontEndTechTest-ReadMe.txt = ExpandedFrontEndTechTest-ReadMe.txt
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mabextendedFETest.API", "mabextendedFETest.API\mabextendedFETest.API.csproj", "{4B5AB10C-063C-425A-A1B1-947CB3A730A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "mabextendedFETest.API", "mabextendedFETest.API\mabextendedFETest.API.csproj", "{4B5AB10C-063C-425A-A1B1-947CB3A730A0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
